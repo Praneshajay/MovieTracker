@@ -18,4 +18,5 @@ MovieTracker is an Android application designed to help users manage and track t
 ## How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Praneshajay/MovieTracker
+   git clone https://github.com/Praneshajay/MovieTracker.git
+
